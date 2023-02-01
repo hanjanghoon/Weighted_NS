@@ -18,7 +18,7 @@ Implements the model described in the following paper [External Knowledge Select
 ```
 
 
-![alt text](https://user-images.githubusercontent.com/32722198/119294465-79847080-bc8f-11eb-80b1-1dfafb0e1b6c.png)
+![dstc10](https://user-images.githubusercontent.com/32722198/216006375-aa146a4b-04da-4eff-8cd0-be3f653aa7cc.png)
 
 Setup and Dependencies
 ----------------------
