@@ -35,23 +35,14 @@ pip install -r requirements.txt
 Preparing Data and Checkpoints
 -------------
 
-### Post-trained and fine-tuned Checkpoints
+### Model Checkpoints. 
 
-We provide following post-trained and fine-tuned checkpoints. 
+- [post-trained checkpoint for generation, fine-tuned checkpoint for generation][3]
 
-- [fine-grained post-trained checkpoint for 3 benchmark datasets (ubuntu, douban, e-commerce)][3]
-- [fine-tuned checkpoint for 3 benchmark datasets (ubuntu, douban, e-commerce)][4]
+### Data for training
+- [Synthetic training data][5]
+please refer data_processing/make_dstc10/make_synthetic_dstc10.py for data construction
 
-
-### Data pkl for Fine-tuning (Response Selection)
-We used the following data for post-training and fine-tuning
-- [fine-grained post-training dataset and fine-tuning dataset for 3 benchmarks (ubuntu, douban, e-commerce)][5]
-
-
-Original version for each dataset is availble in [Ubuntu Corpus V1][6], [Douban Corpus][7], and [E-Commerce Corpus][8], respectively.
-
-
-Fine-grained Post-Training
 --------
 
 ##### Making Data for post-training and fine-tuning  
