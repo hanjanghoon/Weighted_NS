@@ -16,7 +16,7 @@ Implements the model described in the following paper [External Knowledge Select
 }
 
 ```
-This code is reimplemented as a fork of [huggingface/transformers][2].
+
 
 ![alt text](https://user-images.githubusercontent.com/32722198/119294465-79847080-bc8f-11eb-80b1-1dfafb0e1b6c.png)
 
