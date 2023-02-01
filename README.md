@@ -55,7 +55,7 @@ please refer data_processing/make_dstc10/make_synthetic_dstc10.py for data const
 sh paper_(run/train)_(task_name).sh
 ```
 
-[1]: https://github.com/huggingface/transformers
-[2]: https://github.com/taesunwhang/BERT-ResSel
+[1]: https://drive.google.com/file/d/15IDkzb-vmk0dYaJtfMzbOCLw0Fj641eK/view?usp=share_link
+[2]: https://drive.google.com/file/d/10-GPMLFeV3lzmf2RrAAlB8gDUyD4PWTZ/view?usp=share_link
 
 
