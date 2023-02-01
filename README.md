@@ -1,7 +1,7 @@
 External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems <img src="https://pytorch.org/assets/images/logo-dark.svg" width = "90" align=center />
 ====================================
 
-Implements the model described in the following paper [External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems]([https://arxiv.org/abs/2209.02251]) in DSTC10_track2_task2 2022.
+Implements the model described in the following paper [External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems](https://arxiv.org/abs/2209.02251/) in DSTC10_track2_task2 2022.
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2209.02251,
