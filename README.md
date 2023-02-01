@@ -50,7 +50,7 @@ Preparing Data and Checkpoints
 please refer data_processing/make_dstc10/make_synthetic_dstc10.py for data construction
 ```
 
-###### training and evaluation
+### training and evaluation
 ```shell
 sh paper_(run/train)_(task_name).sh
 ```
