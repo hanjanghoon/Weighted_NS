@@ -1,0 +1,4 @@
+gpu num 1
+gpu num 1gpu num 1
+
+gpu num 1
