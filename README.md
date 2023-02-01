@@ -1,15 +1,20 @@
-Fine-grained Post-training for Multi-turn Response Selection <img src="https://pytorch.org/assets/images/logo-dark.svg" width = "90" align=center />
+External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems <img src="https://pytorch.org/assets/images/logo-dark.svg" width = "90" align=center />
 ====================================
 
-Implements the model described in the following paper [Fine-grained Post-training for Improving Retrieval-based Dialogue Systems](https://www.aclweb.org/anthology/2021.naacl-main.122/) in NAACL-2021.
+Implements the model described in the following paper [External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems]([https://www.aclweb.org/anthology/2021.naacl-main.122/](https://arxiv.org/abs/2209.02251)) in DSTC10_track2_task2 2022.
 
 ```
-@inproceedings{han-etal-2021-fine,
-title = "Fine-grained Post-training for Improving Retrieval-based Dialogue Systems",
-author = "Han, Janghoon  and Hong, Taesuk  and Kim, Byoungjae  and Ko, Youngjoong  and Seo, Jungyun",
-booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
-month = jun, year = "2021", address = "Online", publisher = "Association for Computational Linguistics", url = "https://www.aclweb.org/anthology/2021.naacl-main.122", pages = "1549--1558",
+@misc{https://doi.org/10.48550/arxiv.2209.02251,
+  doi = {10.48550/ARXIV.2209.02251},
+  url = {https://arxiv.org/abs/2209.02251},
+  author = {Han, Janghoon and Shin, Joongbo and Song, Hosung and Jo, Hyunjik and Kim, Gyeonghun and Kim, Yireun and Choi, Stanley Jungkyu},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
+
 ```
 This code is reimplemented as a fork of [huggingface/transformers][2].
 
